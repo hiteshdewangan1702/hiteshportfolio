@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hiteshportfolio/static/css/main.00b5016d.css",
+    "main.js": "/hiteshportfolio/static/js/main.bbe2e247.js",
+    "static/js/415.4d6acbeb.chunk.js": "/hiteshportfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/hiteshportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/faceEmotion.png": "/hiteshportfolio/static/media/faceEmotion.7d7188b2e433963f5ba5.png",
+    "static/media/virtualMouse.png": "/hiteshportfolio/static/media/virtualMouse.96f66435530ac1af029d.png",
+    "static/media/home-main.svg": "/hiteshportfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/hiteshportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/HiteshDewangan.pdf": "/hiteshportfolio/static/media/HiteshDewangan.bad2896a9289a34048b7.pdf",
+    "static/media/whiteboard.png": "/hiteshportfolio/static/media/whiteboard.7e8ae026622d77e52a9b.png",
+    "static/media/passGenerator.png": "/hiteshportfolio/static/media/passGenerator.ac10237391b583cb1fee.png",
+    "static/media/imageEditor.png": "/hiteshportfolio/static/media/imageEditor.76d76d7a8bc3eb1fe840.png",
+    "static/media/home-bg.jpg": "/hiteshportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/userHub.png": "/hiteshportfolio/static/media/userHub.153eb05894a3db511d99.png",
+    "static/media/avatar.svg": "/hiteshportfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/hiteshportfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/hiteshportfolio/index.html",
+    "main.00b5016d.css.map": "/hiteshportfolio/static/css/main.00b5016d.css.map",
+    "main.bbe2e247.js.map": "/hiteshportfolio/static/js/main.bbe2e247.js.map",
+    "415.4d6acbeb.chunk.js.map": "/hiteshportfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/hiteshportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b5016d.css",
+    "static/js/main.bbe2e247.js"
+  ]
+}
